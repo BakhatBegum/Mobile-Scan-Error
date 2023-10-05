@@ -1,0 +1,23 @@
+body {
+	background-image:url("img.jpg ");
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: x-large;
+	text-align: center;
+	color: white;
+}
+img {
+	border: 3px solid whitesmoke;
+	width: 20%;
+	height: 350px;
+	margin: 20px auto;
+	border-radius: 5px;
+	max-width: 100
+
+}
+button:hover {
+	color: darkgoldenrod;
+}
+button {
+	border: 3px solid hotpink;
+}
